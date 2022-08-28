@@ -42,5 +42,6 @@ namespace CabInvoice
             averagePerRide = TotalFare / numOfRides;
             return TotalFare;
         }
+
     }
 }
